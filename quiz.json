@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of political ideologies.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is the core of socialism?",
+      "answers": ["Equality", "Freedom", "Wealth"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is a key tenet of capitalism?",
+      "answers": ["Market", "Control", "Regulate"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What does anarchism oppose?",
+      "answers": ["State", "Market", "Freedom"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the father of liberalism?",
+      "answers": ["Locke", "Marx", "Smith"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which ideology advocates for no private property?",
+      "answers": ["Communism", "Fascism", "Socialism"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the focus of conservatism?",
+      "answers": ["Tradition", "Progress", "Equality"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which ideology promotes a free market?",
+      "answers": ["Libertarian", "Socialist", "Anarchist"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the core of fascism?",
+      "answers": ["Authority", "Liberty", "Equality"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which ideology supports environmental protection?",
+      "answers": ["Green", "Liberal", "Conservative"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which ideology is based on Karl Marx's theories?",
+      "answers": ["Marxism", "Liberalism", "Anarchism"],
       "correctAnswerIndex": 0
     }
   ]
